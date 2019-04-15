@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 项目文档集合
 
-You can use the [editor on GitHub](https://github.com/sysu-sasd-project/dashboard/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysu-sasd-project/dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 1、[项目概况](01-about.md)
+- 2、[团队组建与分工](02-team-profile)
+- 3、[项目前期调研/竞品分析](03-invest.md)
+- 4、[项目愿景](04-vision.md)
+- 5、[产品特性库](05-backlog.md)
+- 6、[需求规格说明书](06-43quirements.md)
+- 7、[设计说明书](07-designs.md)
+- 8、[会议记录](x1-meetings.md)
+- 9、[看板](X2-kanban.md)
+- 10、[审计记录](auditing-records.md)
+- 11、[技术报告](x4-techniques.md)
+- 12、[项目报告](x5-summary.md)
