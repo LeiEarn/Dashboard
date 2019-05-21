@@ -5,7 +5,7 @@
 - 3、[项目前期调研/竞品分析](03-invest.md)
 - 4、[项目愿景](04-vision.md)
 - 5、[产品特性库](05-backlog.md)
-- 6、[需求规格说明书](06-43quirements.md)
+- 6、[需求规格说明书](06-requirements.md)
 - 7、[设计说明书](07-designs.md)
 - 8、[会议记录](x1-meetings.md)
 - 9、[看板](X2-kanban.md)
