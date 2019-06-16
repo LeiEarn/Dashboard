@@ -1,6 +1,6 @@
 ---
-layout：default
-title：个人信息修改
+layout: default
+title: 个人信息修改
 ---
 
 

@@ -1,14 +1,14 @@
 ---
-layout：default
-title：任务编辑
+layout: default
+title: 任务编辑
 ---
-
-
 
 # 任务编辑
 
+{:.no_toc}
+
 | 版本 | 日期      | 描述                         | 作者     |
-| ---- | --------- | ---------------------------- | -------- |
+| :----: | :---------: | :----------------------------: | :--------: |
 | v1.1 | 2019-5-29 | 任务编辑子用例活动图、泳道图 | LightBai |
 
 ## 场景描述
@@ -22,29 +22,18 @@ title：任务编辑
 
 ## 用例图
 
-![](image/EditTask_usecase.png)
+![EditTask_usecase](image/EditTask_usecase.png)
 
 ## 活动图
 
 - 任务创建活动图
 
-  ![](image/NewTask_activity.png)
+  ![NewTask_activity](image/NewTask_activity.png)
 
 - 任务修改活动图
 
-  ![](image/ModifyTask_activity.png)
+  ![ModifyTask_activity](image/ModifyTask_activity.png)
 
 ## 泳道图
 
-![](image/SwimLane.png)
-
-
-
-
-
-
-
-
-
-
-
+![SwimLane](image/SwimLane.png)
