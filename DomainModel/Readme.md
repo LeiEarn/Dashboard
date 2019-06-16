@@ -23,4 +23,4 @@ title: 领域图
 
 下图为添加了任务信息和发布者，参与者的领域图。
 
-![](Task/image/ManageTask.png)
+![ManageTask](Task/image/ManageTask.png)
