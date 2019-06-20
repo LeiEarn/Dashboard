@@ -16,11 +16,11 @@ title: 领域图
 
 下图为系统关于用户信息及身份（student/job）和组织信息的领域图。
 
-![UserInfo](User/image/UserInfo.png)
+![1](/DomainModel_1.png)
 
 
 ## v1.2
 
 下图为添加了任务信息和发布者，参与者的领域图。
 
-![ManageTask](Task/image/ManageTask.png)
+![2](/2.png)
