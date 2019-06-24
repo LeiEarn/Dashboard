@@ -32,8 +32,10 @@ layout: default
 * 9、成品展示
     - 9.1 XX短视频
     - 9.2 XX短视频
-* X1 [meeting-records](x1-meetings)
-    - inception meeting (yy/mm/dd)
+* X1 meeting-records
+    - [inception meeting](MeetingRecord/MeetingRecord1.md)
+    - Inception1 meeting
+    - Inception2 meeting
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
