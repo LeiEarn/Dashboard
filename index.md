@@ -20,14 +20,14 @@ layout: default
     - 6.6 Supplementary Requirements（补充需求）
 * 7、Design（设计说明书）
     - 7.1 UI design（界面设计）
-    - 7.2 Database design（数据库设计）
+    - 7.2 [Database design（数据库设计）](./DatabaseDesign/Readme)
     - 7.3 [Interface API design（接口 API 设计）](https://sysu-gfs-3.github.io/API-document/)
     - 7.4 Architecture design（架构设计）
     - 7.5 Usecase design（用例设计）
 * 8、生产规范与指南
     - 8.1 [代码规范](08-01-code-style)
     - 8.2 REST API 设计规范
-    - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
+    - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-BCE)
     - 8.4 部署说明
 * 9、成品展示
     - 9.1 XX短视频
