@@ -22,5 +22,6 @@ title: 个人信息
 - 用户身份证明：用户输入姓名、手机号、学号等信息并提交。
 - 管理员审核：管理员根据用户提交信息判断身份。
 
-## 
+## 用例活动建模
 
+![UserInfo_Activity](./image/UserInfo_Activity.png)
