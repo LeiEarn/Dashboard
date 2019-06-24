@@ -15,9 +15,9 @@ layout: default
     - 6.1 [Usecase Diagram（用例图）](./UseCases/index)
     - 6.2 [Use Cases（用例+活动图）](./UseCases/index)
     - 6.3 [Domian Models（领域模型）](./DomainModel/Readme)
-    - 6.4 [State Models（状态模型）](./StateModel/index.md)
-    - 6.5 [System Sequence Diagrams（功能模型）](SystemSequence/SSD.md)
-    - 6.6 Supplementary Requirements（补充需求）
+    - 6.4 [State Models（状态模型）](./StateModel/index)
+    - 6.5 [System Sequence Diagrams（功能模型）](SystemSequence/SSD)
+    - 6.6 [Supplementary Requirements（补充需求）](06-06-supplementary-requirements)
 * 7、Design（设计说明书）
     - 7.1 UI design（界面设计）
     - 7.2 Database design（数据库设计）
