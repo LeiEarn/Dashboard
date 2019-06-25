@@ -33,9 +33,10 @@ layout: default
     - 9.1 XX短视频
     - 9.2 XX短视频
 * X1 meeting-records
-    - [inception meeting](MeetingRecord/MeetingRecord1.md)
-    - Inception1 meeting
-    - Inception2 meeting
+    - [inception meeting 1(3/17/2019)](MeetingRecord/MeetingRecord1.md)
+    - [Inception meeting 2(3/27/2019)](MeetingRecord/MeetingRecord2.md)
+    - [Inception meeting 3(4/26/2019)](MeetingRecord/MeetingRecord3.md)
+    - [Inception meeting 4(5/27/2019)](MeetingRecord/MeetingRecord4.md)
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
