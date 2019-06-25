@@ -20,7 +20,7 @@ layout: default
     - 6.6 [Supplementary Requirements（补充需求）](06-06-supplementary-requirements)
 * 7、Design（设计说明书）
     - 7.1 UI design（界面设计）
-    - 7.2 Database design（数据库设计）
+    - 7.2 [Database design（数据库设计）](./DatabaseDesign/Readme)
     - 7.3 [Interface API design（接口 API 设计）](https://sysu-gfs-3.github.io/API-document/)
     - 7.4 Architecture design（架构设计）
     - 7.5 Usecase design（用例设计）
@@ -32,8 +32,11 @@ layout: default
 * 9、成品展示
     - 9.1 XX短视频
     - 9.2 XX短视频
-* X1 [meeting-records](x1-meetings)
-    - inception meeting (yy/mm/dd)
+* X1 meeting-records
+    - [inception meeting 1(3/17/2019)](MeetingRecord/MeetingRecord1.md)
+    - [Inception meeting 2(3/27/2019)](MeetingRecord/MeetingRecord2.md)
+    - [Inception meeting 3(4/26/2019)](MeetingRecord/MeetingRecord3.md)
+    - [Inception meeting 4(5/27/2019)](MeetingRecord/MeetingRecord4.md)
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
