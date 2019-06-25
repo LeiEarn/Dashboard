@@ -1,5 +1,11 @@
 # System Sequence Diagram
 
+| 版本 | 日期      | 描述       | 作者     |
+| ---- | --------- | ---------- | -------- |
+| V1.1 | 2019-6-24 | 用例顺序图 | LightBai |
+
+
+
 ### 用户身份认证
 
 ![](images\userAuth.jpg)
