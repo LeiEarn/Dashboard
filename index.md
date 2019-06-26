@@ -23,7 +23,7 @@ layout: default
     - 7.2 [Database design（数据库设计）](./DatabaseDesign/Readme)
     - 7.3 [Interface API design（接口 API 设计）](https://sysu-gfs-3.github.io/API-document/)
     - 7.4 Architecture design（架构设计）
-    - 7.5 Usecase design（用例设计）
+    - 7.5 [Usecase design（用例设计）](UsecaseDesign/usecaseDesign.md)
 * 8、生产规范与指南
     - 8.1 [代码规范](08-01-code-style)
     - 8.2 [REST API 设计规范](https://sysu-gfs-3.github.io/API-document/)
