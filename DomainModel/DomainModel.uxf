@@ -4,24 +4,24 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>350</x>
-      <y>140</y>
+      <x>260</x>
+      <y>270</y>
       <w>210</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>publisher
+    <panel_attributes>user_task_job
 --
-publisher_id
 user_id
 task_id
-</panel_attributes>
+publish_time
+job_path</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>350</x>
-      <y>720</y>
+      <x>260</x>
+      <y>850</y>
       <w>210</w>
       <h>90</h>
     </coordinates>
@@ -36,8 +36,8 @@ user_id
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
-      <y>710</y>
+      <x>590</x>
+      <y>840</y>
       <w>210</w>
       <h>90</h>
     </coordinates>
@@ -51,8 +51,8 @@ funder_name</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1030</x>
-      <y>520</y>
+      <x>940</x>
+      <y>650</y>
       <w>210</w>
       <h>200</h>
     </coordinates>
@@ -74,10 +74,10 @@ user_user_id
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
-      <y>60</y>
+      <x>590</x>
+      <y>170</y>
       <w>210</w>
-      <h>210</h>
+      <h>230</h>
     </coordinates>
     <panel_attributes>task
 --
@@ -86,6 +86,9 @@ title
 type
 wjx_id
 task_intro
+publisher_id
+money
+max_num
 participants_num
 release_time
 sign_start_time
@@ -96,8 +99,8 @@ sign_end_time
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1030</x>
-      <y>280</y>
+      <x>940</x>
+      <y>410</y>
       <w>210</w>
       <h>210</h>
     </coordinates>
@@ -120,19 +123,21 @@ user_user_id
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
-      <y>380</y>
+      <x>590</x>
+      <y>510</y>
       <w>210</w>
       <h>190</h>
     </coordinates>
     <panel_attributes>user
 --
-weichat
+wechat_id
 nickname
 photo
 isprove
 identity
 intro
+balance
+credit
 create_date
 </panel_attributes>
     <additional_attributes/>
@@ -140,8 +145,8 @@ create_date
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1030</x>
-      <y>80</y>
+      <x>950</x>
+      <y>150</y>
       <w>210</w>
       <h>110</h>
     </coordinates>
@@ -157,22 +162,22 @@ password
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>880</x>
-      <y>140</y>
-      <w>170</w>
+      <x>790</x>
+      <y>210</y>
+      <w>180</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
 m2=1
 &lt; audit </panel_attributes>
-    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+    <additional_attributes>10.0;20.0;160.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>880</x>
-      <y>400</y>
+      <x>790</x>
+      <y>530</y>
       <w>170</w>
       <h>50</h>
     </coordinates>
@@ -185,8 +190,8 @@ m2=1
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>880</x>
-      <y>540</y>
+      <x>790</x>
+      <y>670</y>
       <w>170</w>
       <h>50</h>
     </coordinates>
@@ -199,8 +204,8 @@ m2=1
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>780</x>
-      <y>260</y>
+      <x>690</x>
+      <y>390</y>
       <w>70</w>
       <h>140</h>
     </coordinates>
@@ -213,22 +218,22 @@ sign ^</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>550</x>
-      <y>190</y>
+      <x>460</x>
+      <y>320</y>
       <w>150</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=-
-m1=1
+m1=*
 m2=1
-&lt; be published </panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>550</x>
-      <y>750</y>
+      <x>460</x>
+      <y>880</y>
       <w>150</w>
       <h>50</h>
     </coordinates>
@@ -241,8 +246,8 @@ found &gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>780</x>
-      <y>560</y>
+      <x>690</x>
+      <y>690</y>
       <w>70</w>
       <h>170</h>
     </coordinates>
@@ -255,8 +260,8 @@ join v</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>230</y>
+      <x>370</x>
+      <y>360</y>
       <w>240</w>
       <h>240</h>
     </coordinates>
@@ -269,8 +274,8 @@ belong &gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>470</y>
+      <x>370</x>
+      <y>600</y>
       <w>240</w>
       <h>270</h>
     </coordinates>
