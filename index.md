@@ -38,6 +38,7 @@ layout: default
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
     - 学号-title
+    - [16341008-方便的EChart---使用图表展示数据](https://534265373.github.io/Note/%E6%96%B9%E4%BE%BF%E7%9A%84EChart------%E4%BD%BF%E7%94%A8%E5%9B%BE%E8%A1%A8%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE.html)
 * X5 [Final Report](x5-summary)
     - [16341007-个人小结](x5-16341007)
     - [16341008-个人小结](x5-16341008.md)
