@@ -28,10 +28,7 @@ layout: default
     - 8.1 [代码规范](08-01-code-style)
     - 8.2 [REST API 设计规范](https://sysu-gfs-3.github.io/API-document/)
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-BCE)
-    - 8.4 部署说明
-* 9、成品展示
-    - 9.1 XX短视频
-    - 9.2 XX短视频
+    - 8.4 [部署说明](08-04-deployment)
 * X1 meeting-records
     - [Inception Meeting(3/17/2019)](MeetingRecord/MeetingRecord1.md)
     - [Iteration Meeting 1(3/27/2019)](MeetingRecord/MeetingRecord2.md)
@@ -41,7 +38,9 @@ layout: default
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
     - 学号-title
+    - [16341008-方便的EChart---使用图表展示数据](https://534265373.github.io/Note/%E6%96%B9%E4%BE%BF%E7%9A%84EChart------%E4%BD%BF%E7%94%A8%E5%9B%BE%E8%A1%A8%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE.html)
 * X5 [Final Report](x5-summary)
-    - 学号-title
-    - 小组分工与贡献率说明
+    - [16341007-个人小结](x5-16341007)
+    - [16341008-个人小结](x5-16341008.md)
+    - [小组分工与贡献率说明](https://sysu-gfs-3.github.io/SE-308/%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.html)
 
