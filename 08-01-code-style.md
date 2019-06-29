@@ -20,6 +20,7 @@ title: 代码规范
     * 根据[ES 2016+](http://kangax.github.io/compat-table/es2016plus/)
     * 使用ESLint进行代码风格检查
         * 基于[JavaScript Standard Style](https://github.com/standard/standard/blob/master/RULES.md#javascript-standard-style)
+        * 永远不省略分号
     * 可以使用Async/Await的地方就不使用Promise
 
 2. CSS
