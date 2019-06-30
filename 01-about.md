@@ -9,9 +9,10 @@ title: 关于项目
 * 目录
 {:toc}
 
-| 版本 |   日期    | 描述 |  作者   |
-| :--: | :-------: | :--: | :-----: |
-| v1.1 | 2019-3-21 | 草案 | zengh |
+| 版本 |   日期    | 描述 |   作者   |
+| :--: | :-------: | :--: | :------: |
+| v1.1 | 2019-3-21 | 草案 |  zengh   |
+| v2.0 | 2019-6-29 | 完善 | LightBai |
 
 ## 1、项目简介
 
@@ -20,44 +21,63 @@ title: 关于项目
 * 客户通过平台验证身份的真实有效，保证任务与完成任务的真实性
 * 每个用户既可以接收任务也可以发布相应的任务
 * 每个用户可以指定给特定的群体完成
-* 多用户同时在线抢任务
+* 可以以组织的形式发布和接受任务
 * 引入信用积分，评估是否具有接受任务的能力
-* 提供申诉
-* . . . . 
 
 
 ## 2、重要分析设计文档
 
 请在这里给出重要的软件分析与设计文档连接
 
-* [需求规格说明书](06-requirements)
-* [软件设计说明书](07-designs)
+* [需求规格说明书](06-requirements.md)
+* [软件设计说明书](07-designs.md)
 * [产品演示视频]()
 
 
 ## 3、敏捷开发迭代管理与大事纪
 
-* Inceptions
-    - goal: 就产品“产品范围、愿景和核心业务”达成一致
+* Inceptions （2019/3/17）
+    - goal: 深入理解项目需求，确定初步分工，明确前期调研准备
     - 前期工作：
-        - 产品调查：xxx
+        - [产品调查](03-invest.md)：白光程
         - 团队组织: 确认分工， [团队组建与分工](02-team-profile)
     - 项目启动会议：所有人
-    - 项目愿景等文档： xxx
-    - XX业务故事板设计: xxx
-
-* Iteration 1 (3 weeks from yy.mm.dd to yy.mm.dd)
+    - [项目愿景等文档](04-vision.md)： 何枷瑜
+* Iteration 1 （2019/3/27 ～ 2019/4/27）
     - goals:
-        - makes tech prototype for something
-        - builds a proto system to demostrate core scene
-        - collects 50% requirments scene stories
-    - milestones
-        - tick-off meeting 99/1/28
-* Iteration 2 (3 weeks from yy.mm.dd to yy.mm.dd)
-    - goals:
-        - ...
-    - milestones
-        - ...
+        - 交流调研结果
+        - 细化用例场景
+        - 登陆、验证的实现
         
-
-
+    - milestones
+      
+        - [x] [用户管理系统用例](UseCases/index.md)
+        - [x] 数据模型
+        - [x] 实现微信授权登陆
+* Iteration 2  （2019/4/27 ～ 2019/5/27）
+    - goals:
+        - 总结前期任务
+        - 讨论新的任务场景
+        - 任务管理的实现
+    - milestones
+        - [x] 用户界面的设计完善
+        - [x] 任务的发布、接受
+        - [x] 任务的完成
+        - [x] 任务的放弃、中止
+        - [ ] ~~任务的修改（废弃）~~
+        - [x] 任务信息的添加
+        - [x] 文档的编写
+        - [x] 后台管理端的实现
+        - [ ] 问卷功能
+        - [ ] API设计与编写
+* Iteration 3 （2019/5/27 ～ 2019/6/26 ）
+    - goals:
+      -  前期任务总结
+      - 讨论新任务
+    - milestones
+      - [x] 组织管理的实现
+      - [x] 问卷功能完善
+      - [x] API的编写
+      - [x] 用户端、后台管理端、后端的对接
+      - [x] docher部署
+      - [x] 文档编写
