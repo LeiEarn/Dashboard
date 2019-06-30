@@ -26,7 +26,7 @@
 
 ### 架构设计：
 
-![Structure](/Users/guyunquan/Dashboard/images/Structure.png)
+![Structure](images/Structure.png)
 
 ### 模块划分：
 
