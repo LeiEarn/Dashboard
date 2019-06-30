@@ -20,23 +20,23 @@ title: 领域图
 
 ## 下图为系统关于用户信息及身份（student/job）和组织信息的领域图。
 
-![1](/DatabaseDesign_1.png)
+![1](DatabaseDesign_1.png)
 
 
 ## v2
 
 ## v2.1 下图为添加了任务信息和发布者，参与者的领域图。
 
-![2.1](/DatabaseDesign_v2_1.png)
+![2.1](DatabaseDesign_v2_1.png)
 
 ## v2.2 下图为添加了将性别，手机号从基本信息改为认证信息（不可随意修改）。
 
-![2.2](/DatabaseDesign_v2_2.png)
+![2.2](DatabaseDesign_v2_2.png)
 
 ## v2.3 下图为添加了验证状态字段，通过状态，判断用户权限及后台对其的相应处理。
 
-![2.3](/DatabaseDesign_v2_3.png)
+![2.3](DatabaseDesign_v2_3.png)
 
 ## v3.1 下图为添加了用户的余额和信誉度，任务及身份认证状态的完善，增加表记录用户完成任务提交信息的记录。
 
-![3.1](/DatabaseDesign_v3_1.png)
+![3.1](DatabaseDesign_v3_1.png)

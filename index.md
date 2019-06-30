@@ -22,7 +22,7 @@ layout: default
     - 7.1 [UI design（界面设计）](UIDesign/UIDesign.md)
     - 7.2 [Database design（数据库设计）](./DatabaseDesign/Readme)
     - 7.3 [Interface API design（接口 API 设计）](https://sysu-gfs-3.github.io/API-document/)
-    - 7.4 Architecture design（架构设计）
+    - [7.4 Architecture design（架构设计](07-04 Architecture design)
     - 7.5 [Usecase design（用例设计）](07-05-usecase-design.md)
 * 8、生产规范与指南
     - 8.1 [代码规范](08-01-code-style)
@@ -37,11 +37,9 @@ layout: default
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
-    - 学号-title
-    - [16341008-方便的EChart---使用图表展示数据](https://534265373.github.io/Note/%E6%96%B9%E4%BE%BF%E7%9A%84EChart------%E4%BD%BF%E7%94%A8%E5%9B%BE%E8%A1%A8%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE.html)
-    - [16341001-利用Sketch进行原型设计](https://baigch.github.io/SWSAD/blog/Sketch%E4%BD%BF%E7%94%A8.html)
 * X5 [Final Report](x5-summary)
     - [16341001-个人小结](x5-16341001.md)
+    - [16341006-个人小结](x5-16341006)
     - [16341007-个人小结](x5-16341007)
     - [16341008-个人小结](x5-16341008.md)
     - [小组分工与贡献率说明](https://sysu-gfs-3.github.io/SE-308/%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.html)
