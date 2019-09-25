@@ -1,7 +1,7 @@
 # 项目文档集合
 
 - 1、[项目概况](01-about.md)
-- 2、[团队组建与分工](02-team-profile)
+- 2、[团队组建与分工](02-team-profile.md)
 - 3、[项目前期调研/竞品分析](03-invest.md)
 - 4、[项目愿景](04-vision.md)
 - 5、[产品特性库](05-backlog.md)
